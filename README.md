@@ -1,2 +1,2 @@
-# C27-Constraints
-Constraints between 2 independent bodies
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
